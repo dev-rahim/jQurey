@@ -265,6 +265,7 @@ textarea {
   width: 300px;
   border: solid 2px #ddd;
   margin: 0 auto;
+  text-align: center;
 }
 
 h2 {
