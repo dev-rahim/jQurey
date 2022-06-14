@@ -261,3 +261,24 @@ textarea {
   }
 }
 
+.box {
+  width: 300px;
+  border: solid 2px #ddd;
+  margin: 0 auto;
+}
+
+h2 {
+  color: white;
+  background-color: red;
+  padding: 5px;
+  text-align: center;
+  border: 2px solid blueviolet;
+  /* width: 75%; */
+  cursor: pointer;
+}
+
+p {
+  background: #ddd;
+  padding: 5px;
+  text-align: justify;
+}
